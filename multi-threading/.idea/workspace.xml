@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50565ea0-c8c2-4c25-8fdf-2bdb67583216" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\Programming\Java Core\multi-threading\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YWtCdayIJyZYYgI95pPb0fZQWO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.PriorityDemo">
+    <configuration name="ExtendThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extend_thread.ExtendThread" />
+      <module name="multi-threading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoreThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run_multi_threads.MoreThreads" />
+      <module name="multi-threading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priority.PriorityDemo" />
+      <module name="multi-threading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priority.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implement_runnable.UseThreads" />
+      <module name="multi-threading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PriorityDemo" />
+        <item itemvalue="Application.MoreThreads" />
+        <item itemvalue="Application.UseThreads" />
+        <item itemvalue="Application.ExtendThread" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50565ea0-c8c2-4c25-8fdf-2bdb67583216" name="Default Changelist" comment="" />
+      <created>1583070053529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583070053529</updated>
+      <workItem from="1583070058458" duration="7577000" />
+      <workItem from="1583109167804" duration="87000" />
+      <workItem from="1583157264947" duration="597000" />
+      <workItem from="1583162725548" duration="1725000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1583072078390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583072078390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1583072151566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583072151566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1583109216634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583109216634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1583070077191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583070077191" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1583076999609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583076999609" />
+    <state x="346" y="0" key="CommitChangelistDialog2" timestamp="1583109214580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583109214580" />
+    <state x="549" y="106" key="FileChooserDialogImpl" timestamp="1583072045580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="106" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583072045580" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1583079306707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583079306707" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1583079306707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583079306707" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1583079306707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583079306707" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1583079306707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583079306707" />
+    <state x="439" y="31" key="NewModule_or_Project.wizard" timestamp="1583070105029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="31" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1583070105029" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1583072138584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583072138584" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1583109219151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1583109219151" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1583072980814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583072980814" />
+    <state x="431" y="186" key="git4idea.merge.GitPullDialog" timestamp="1583072190251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="186" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1583072190251" />
+    <state x="577" y="255" key="git4idea.rebase.GitRebaseDialog" timestamp="1583072113526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="255" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1583072113526" />
+    <state x="209" y="0" key="new project wizard" timestamp="1583163242608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583163242608" />
+    <state x="491" y="318" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583072944853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="318" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1583072944853" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection-demo/collection-demo.iml" filepath="$PROJECT_DIR$/collection-demo/collection-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional-interface-and-lambda-expression/functional-interface-and-lambda-expression.iml" filepath="$PROJECT_DIR$/functional-interface-and-lambda-expression/functional-interface-and-lambda-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/future-demo/future-demo.iml" filepath="$PROJECT_DIR$/future-demo/future-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic-demo/generic-demo.iml" filepath="$PROJECT_DIR$/generic-demo/generic-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io-demo/io-demo.iml" filepath="$PROJECT_DIR$/io-demo/io-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-threading/multi-threading.iml" filepath="$PROJECT_DIR$/multi-threading/multi-threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection-demo/reflection-demo.iml" filepath="$PROJECT_DIR$/reflection-demo/reflection-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization-deserialization-demo/serialization-deserialization-demo.iml" filepath="$PROJECT_DIR$/serialization-deserialization-demo/serialization-deserialization-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-demo/stream-demo.iml" filepath="$PROJECT_DIR$/stream-demo/stream-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-demo/string-demo.iml" filepath="$PROJECT_DIR$/string-demo/string-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-pool-demo/thread-pool-demo.iml" filepath="$PROJECT_DIR$/thread-pool-demo/thread-pool-demo.iml" />
+    </modules>
+  </component>
+</project>
